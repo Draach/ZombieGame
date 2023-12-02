@@ -1,4 +1,0 @@
-repository "ProjectZomboid@JulioMissart@cloud"
-  path "/"
-    br "/main"
-    co "/main"
